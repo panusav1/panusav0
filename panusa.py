@@ -45,15 +45,15 @@ class Home:
 
 	def home(self): 
 		print(f"""{Color.LG}
-╔╗ ♥     ╔♫═╗  ♥
-║║♫═╦╦╦╔╗╚╗╔╝♫═╗♫═╗╔╗
-♫╚╣║║║║╔╣ ║║ ║║║║║║♫║♫╗  
-╚═╩═╩♫╩═╝ ╚╝ ╚═╝╚═╝╚══╝ 
-              Version 02
+╔╔♫═╗  ♥
+╚╗╔╝♫═╗♫═╗╔╗
+ ║║ ║║║║║║♫║♫╗  
+ ╚╝ ╚═╝╚═╝╚══╝ 
+              tool nguyễn cao sang
 ♫ Lệnh " HELP " Để Xem Hướng Dẫn ♫
 """)
 		while True:
-			sys.stdout.write(Color.LB+"╔═══"+Color.LR+"["+Color.LG+" LoveTool "+Color.LR+"]"+Color.LB+"\n╚══> "+Color.RESET)
+			sys.stdout.write(Color.LB+"╔═══"+Color.LR+"["+Color.LG+" nguyencaosang "+Color.LR+"]"+Color.LB+"\n╚══> "+Color.RESET)
 			option = input()
 			if option == 'layer4' or option == 'LAYER4':
 				os.system('clean');self.Method2()
@@ -83,9 +83,9 @@ class Home:
 	def Method2(self):
 		print(f"""{Color.LG}
    ╔══════════════════════════╗
-   ║ 🚀 LoveTool Version 2 🚀 ║
-   ║   > Update 10-9-2022 <   ║
-   ╚╗       viduchung        ╔╝
+   ║ 🚀       PANUSA       🚀║
+   ║   > zalo : 0363887584 <  ║
+   ╚╗       ngcaosang        ╔╝
 ╔═══╩════════════╦═══════════╩════╗
 ║     LAYER7     ║     LAYER4     ║
 ║> SOCKET        ║> SYN           ║
@@ -103,7 +103,7 @@ class Home:
 		print(Color.LR+"["+Color.LG+"HOME"+Color.LR+"]"+Color.LC+" TRỞ LẠI")
 		print("\n")
 		while True:
-			sys.stdout.write(Color.LB+"╔═══"+Color.LR+"["+Color.LG+" LoveTool "+Color.LR+"]"+Color.LB+"\n╚══> "+Color.RESET)
+			sys.stdout.write(Color.LB+"╔═══"+Color.LR+"["+Color.LG+" nguyencaosang "+Color.LR+"]"+Color.LB+"\n╚══> "+Color.RESET)
 			option = input()
 			if option == '01' or option == '1':
 				try:
@@ -203,9 +203,9 @@ class Home:
 	def Method1(self):
 		print(f"""{Color.LG}
    ╔══════════════════════════╗
-   ║ 🚀 LoveTool Version 2 🚀 ║
-   ║   > Update 10-9-2022 <   ║
-   ╚╗       viduchung        ╔╝
+   ║ 🚀       PANUSA       🚀║
+   ║   > zalo : 0363887584 <  ║
+   ╚╗       ngcaosang        ╔╝
 ╔═══╩════════════╦═══════════╩════╗
 ║     LAYER7     ║     LAYER4     ║
 ║> SOCKET        ║> SYN           ║
@@ -223,7 +223,7 @@ class Home:
 		print("\n")
 		http_proxy = "https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all"
 		while True:
-			sys.stdout.write(Color.LB+"╔═══"+Color.LR+"["+Color.LG+" LoveTool "+Color.LR+"]"+Color.LB+"\n╚══> "+Color.RESET)
+			sys.stdout.write(Color.LB+"╔═══"+Color.LR+"["+Color.LG+" nguyencaosang "+Color.LR+"]"+Color.LB+"\n╚══> "+Color.RESET)
 			option = input()
 			if option == '01' or option == '1':
 				try:
